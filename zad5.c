@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*7. Napisati program koji iz datoteke čita postfiks izraz i zatim korištenjem stoga računa
+/*5. Napisati program koji iz datoteke čita postfiks izraz i zatim korištenjem stoga računa
 rezultat. Stog je potrebno realizirati preko vezane liste.*/
 
 #define MAX 1024
